@@ -156,7 +156,7 @@ if(gsc=="TOP"){
 
 pop_gsb_male <- selectWithinFam(pop = candfam_selection,nInd = round(ngi*(1/3)),trait = 1,use = "pheno",simParam = SP,sex="M")
 
-pop_gsb_female <- selectWithinFam(pop = candfam_selection,nInd = round(ngi*(1/3)),trait = 1,use = "pheno",simParam = SP,sex="F")
+pop_gsb_female <- selectWithinFam(pop = candfam_selection,nInd = round(ngi*(2/3)),trait = 1,use = "pheno",simParam = SP,sex="F")
 
 pop_gsb = c(pop_gsb_female,pop_gsb_male)
 
