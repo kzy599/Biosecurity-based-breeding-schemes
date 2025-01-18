@@ -1,7 +1,7 @@
 # Biosecurity-based-breeding-schemes
 Author: Ziyi Kang kangziyi1998@163.com; Sheng Luan luansheng@ysfri.ac.cn
 
-This code is associated with an unpublished paper titled "Exploring re-ranking magnitude and genomic selection strategies to enhance genetic gain in selective breeding program for Pacific white shrimp (Litopenaeus vannamei) in the presence of genotype by environment interaction".
+This code is associated with an published paper titled "Genomic selection strategies to overcome genotype by environment interactions in biosecurity-based aquaculture breeding programs".
 
 # Prerequisites
 Before running this program, make sure you have the following software and R packages installed on your system:
